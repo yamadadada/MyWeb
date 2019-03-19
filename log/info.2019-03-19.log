@@ -1,0 +1,38 @@
+Starting GetrealpopularApplication on LAPTOP-I52F1KQC with PID 14732 (D:\JavaProjects\GetRealPopular\target\classes started by 允少 in D:\JavaProjects\GetRealPopular)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.14]
+The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [D:\Program Files\Java\jdk1.8.0_144\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;D:\python35\Python3.7.2\Scripts\;D:\python35\Python3.7.2\;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;D:\Program Files\Java\jdk1.8.0_144\bin;D:\Program Files\Java\jdk1.8.0_144\jre\bin;C:\Users\yakumo\AppData\Local\Programs\Python\Python35;C:\Users\yakumo\AppData\Local\Programs\Python\Python35\Scripts;C:\Program Files\dotnet\;D:\Program Files\nodejs\;D:\Program Files\apache-maven-3.5.3-bin\apache-maven-3.5.3\bin;C:\Program Files\MySQL\MySQL Server 5.7\bin;C:\WINDOWS\System32\OpenSSH\;D:\Program Files\Git\cmd;D:\Program Files\Redis\;C:\Users\yakumo\AppData\Local\Microsoft\WindowsApps;C:\Users\yakumo\AppData\Roaming\npm;;D:\Users\yakumo\AppData\Local\Programs\Fiddler;D:\Program Files\JetBrains\WebStorm 2018.3\bin;;.]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 4274 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+Adding welcome page template: index
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path ''
+Started GetrealpopularApplication in 6.699 seconds (JVM running for 15.649)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 9 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+Starting GetrealpopularApplication on LAPTOP-I52F1KQC with PID 12016 (D:\JavaProjects\GetRealPopular\target\classes started by 允少 in D:\JavaProjects\GetRealPopular)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.14]
+The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [D:\Program Files\Java\jdk1.8.0_144\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;D:\python35\Python3.7.2\Scripts\;D:\python35\Python3.7.2\;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;D:\Program Files\Java\jdk1.8.0_144\bin;D:\Program Files\Java\jdk1.8.0_144\jre\bin;C:\Users\yakumo\AppData\Local\Programs\Python\Python35;C:\Users\yakumo\AppData\Local\Programs\Python\Python35\Scripts;C:\Program Files\dotnet\;D:\Program Files\nodejs\;D:\Program Files\apache-maven-3.5.3-bin\apache-maven-3.5.3\bin;C:\Program Files\MySQL\MySQL Server 5.7\bin;C:\WINDOWS\System32\OpenSSH\;D:\Program Files\Git\cmd;D:\Program Files\Redis\;C:\Users\yakumo\AppData\Local\Microsoft\WindowsApps;C:\Users\yakumo\AppData\Roaming\npm;;D:\Users\yakumo\AppData\Local\Programs\Fiddler;D:\Program Files\JetBrains\WebStorm 2018.3\bin;;.]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1141 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+Adding welcome page template: index
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path ''
+Started GetrealpopularApplication in 2.259 seconds (JVM running for 3.016)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 5 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
