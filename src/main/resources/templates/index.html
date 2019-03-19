@@ -41,7 +41,7 @@
                         <p th:text="${popularStat.index + 1} + ':'"></p>
                         <p th:text="${popular.game}"></p>
                     </div>
-                    <div class="weui-cell__ft" th:text="${#numbers.formatDecimal(popular.avgValue / 50, 1, 0)}"></div>
+                    <div class="weui-cell__ft" th:text="${#numbers.formatDecimal(popular.avgValue / 20, 1, 0)}"></div>
                 </div>
             </div>
         </div>
